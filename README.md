@@ -203,7 +203,7 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 
 **Son Nguyen**
 Master of Business Analytics — Macquarie University (WAM 84)
-[LinkedIn](#www.linkedin.com/in/xuan-son-nguyen-083b91242) · [Portfolio](#) · Sydney, NSW
+[LinkedIn](www.linkedin.com/in/xuan-son-nguyen-083b91242) · [Portfolio](#) · Sydney, NSW
 
 ---
 
