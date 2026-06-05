@@ -178,7 +178,7 @@ Both techniques produced consistent, well-defined segments with minor difference
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourname/customer-segmentation.git
+git clone https://github.com/ngxuanson99/CUSTOMER-SEGMENTATION.git
 cd customer-segmentation
 
 # Install dependencies
